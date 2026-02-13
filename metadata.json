@@ -1,0 +1,7 @@
+{
+  "name": "VisionaryAI: Topic Visualizer",
+  "description": "An advanced AI-powered application that transforms text, documents, or images into hyper-realistic visuals and concise educational summaries using Gemini 3 and 2.5 series models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
